@@ -1,0 +1,18 @@
+[
+	{
+		"Description": "Create a new record using Post method 1",
+		"ShortDescription": "RESTAPIMAY2025 1"
+    },
+    {
+    	"Description": "Create a new record using Post method 2",
+    	"ShortDescription": "RESTAPIMAY2025 2"
+    },
+    {
+    	"Description": "Create a new record using Post method 3",
+    	"ShortDescription": "RESTAPIMAY2025 3"
+    },
+    {
+    	"Description": "Create a new record using Post method 4",
+    	"ShortDescription": "RESTAPIMAY2025 4"
+    }
+]
